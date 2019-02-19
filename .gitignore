@@ -1,3 +1,6 @@
+*.sln
+.idea
+
 # Prerequisites
 *.d
 
